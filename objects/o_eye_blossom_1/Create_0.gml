@@ -1,0 +1,1 @@
+plant_id = global.compendium.giant_eye_blossom;

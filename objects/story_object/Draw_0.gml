@@ -1,0 +1,2 @@
+draw_set_font(global.font);
+draw_text_ext(camera_get_view_x(view_camera[0]) + 64, camera_get_view_y(view_camera[0]) + 24, "Ugh... I've been in a coma for 2 months now... I've been researching this planet for quite a long time, and I ate a strange plant and, now I wake up, and now... That plant surrounds me!", 47, 450)

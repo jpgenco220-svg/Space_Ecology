@@ -1,0 +1,1 @@
+global.font = font_add_sprite(f_font, 32, true, 1)

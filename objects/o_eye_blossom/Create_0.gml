@@ -1,0 +1,1 @@
+plant_id = global.compendium.eye_blossom;
